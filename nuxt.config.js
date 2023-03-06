@@ -10,7 +10,7 @@ export default {
 
   target: 'static',
   router: {
-    base: '/shoppify_frontend/'
+    base: '/shoppify-frontend/'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
